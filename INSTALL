@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo cp gb /usr/share/X11/xkb/symbols/gb
+sudo cp evdev.xml /usr/share/X11/xkb/rules/evdev.xml
