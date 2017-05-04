@@ -5,6 +5,10 @@ Custom X KeyBoard layout for English (UK) + Catalan, which gives easy access to:
 
 Of course, the <kbd>Shift</kbd> modifier will allow typping capital Ç and Ñ.
 
+Bellow you can see the keyboard layout:
+
+![image](screenshots/layout.png)
+
 ## Installation
 
 Simple, you just run the script from the root of the source folder:
