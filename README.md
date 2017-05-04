@@ -3,7 +3,7 @@ Custom X KeyBoard layout for English (UK) + Catalan, which gives easy access to:
  - `ccedilla` (ç) via <kbd>AltGr</kbd>+<kbd>c</kbd>.
  - `ntilde` (ñ) via <kbd>AltGr</kbd>+<kbd>n</kbd>.
 
-Of course, the <kbd>Shift</kbd> modifier will allow typping capital Ç and Ñ.
+Of course, the <kbd>Shift</kbd> modifier will allow typing capital Ç and Ñ.
 
 Bellow you can see the keyboard layout:
 
